@@ -71,7 +71,10 @@ http://localhost:3000
 
 -------------------------------------------------
 
-Admin Login Credentials
+
+
+
+ Admin Login Credentials
 Email: admin@gmail.com
 Password: admin123
 
@@ -99,6 +102,7 @@ React state management
 CRUD operations
 Real-world CRM workflow
 
+--------------------------------------------------
 
 👨‍💻 Author
 
