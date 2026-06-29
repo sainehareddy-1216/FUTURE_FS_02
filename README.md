@@ -88,6 +88,8 @@ PUT /api/leads/:id → Update lead status
 PUT /api/leads/:id/notes → Update notes
 DELETE /api/leads/:id → Delete lead
 
+--------------------------------------------------
+
 📸 Screenshots
 \images
 
